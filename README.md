@@ -6,7 +6,7 @@
 You can get in touch with me:
 
 <div>
-    <img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stack-overflow">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stack-overflow&logoColor=white&style=for-the-badge">
 </div>
 [![image](https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stack-overflow)](https://stackoverflow.com/users/16222879/najmo-aden) [LinkedIn](https://www.linkedin.com/in/najmoaden/)
 <!---

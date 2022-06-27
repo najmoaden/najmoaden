@@ -1,9 +1,13 @@
 # Najmo Aden
 ---
-##
+## Skills
 ---
 
-You can get in touch with me:
+<div>
+    <img src="https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white&style=for-the-badge">
+</div>
+<div></div>
+You can connect with me on:
 
 <div>
     <img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stack-overflow&logoColor=white&style=for-the-badge">

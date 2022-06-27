@@ -1,12 +1,12 @@
 # Najmo Aden
----
+
 
 Hello everyone 👋
 
-I am student at Utbildning Nord where I study web development. The web technologies that I am learning are C#, HTML, CSS, Bootstrap, Javascript, Typescript, PowerShell, ASP.NET
+I am student at Utbildning Nord where I study web development. The web technologies that I am learning are C#, HTML, CSS, Bootstrap, Javascript, Typescript, PowerShell, ASP.NET.
 
 ## Mastered
----
+
 
 <div>
     <img src="https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white&style=for-the-badge">
@@ -15,7 +15,7 @@ I am student at Utbildning Nord where I study web development. The web technolog
 </div>
 
 ## In Progress
----
+
  <div>
     <img src="https://img.shields.io/badge/-javascript-E34F26?logo=html5&logoColor=white&style=for-the-badge">
      <img src="https://img.shields.io/badge/-css3-1572B6?logo=css3&logoColor=white&style=for-the-badge">
@@ -24,7 +24,7 @@ I am student at Utbildning Nord where I study web development. The web technolog
 
 
 ## Connect
----
+
 You can connect with me on:
 
 <div>

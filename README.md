@@ -5,6 +5,9 @@
 
 You can get in touch with me:
 
+<div>
+    <img url="https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stack-overflow">
+</div>
 [![image](https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stack-overflow)](https://stackoverflow.com/users/16222879/najmo-aden) [LinkedIn](https://www.linkedin.com/in/najmoaden/)
 <!---
 najmoaden/najmoaden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,8 +5,12 @@
 
 <div>
     <img src="https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white&style=for-the-badge">
+     <img src="https://img.shields.io/badge/-css3-1572B6?logo=css3&logoColor=white&style=for-the-badge">
+     <img src="https://img.shields.io/badge/-bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge">
 </div>
-<div></div>
+
+## Connect
+---
 You can connect with me on:
 
 <div>
